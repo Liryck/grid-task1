@@ -1,0 +1,7 @@
+.header {
+    padding: 48px 0;
+    margin-bottom: 30px;
+    width: 100%;
+    height: 140px;
+    @include block;
+}

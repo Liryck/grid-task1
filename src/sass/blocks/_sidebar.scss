@@ -1,0 +1,6 @@
+.sidebar {
+    @include block;
+    position: fixed;
+    height: 760px;
+    width: 338px;
+}
